@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
+# Setup
+title:               Kirsten Gotting
+tagline:             'biological data cruncher'
+url:                 http://kirstengotting.com/
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Kirsten Gotting
+  url:               https://twitter.com/KirstenGotting
+  email:             k.gotting@gmail.com
+
+
+gems: [jekyll-paginate]
+
+paginate_path: "/blog/page:num/"
