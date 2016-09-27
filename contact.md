@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 title: Contact
 ---
+
+## Contact
 
 Find me on [Twitter](https://twitter.com/KirstenGotting) or tweet me @KirstenGotting
 
