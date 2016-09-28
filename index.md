@@ -12,6 +12,7 @@ I am a Bioinformaticist in the lab of Dr. Alejandro Sánchez Alvarado. I've work
 
 In my spare time I enjoy hiking, rock climbing, crocheting, running, and gardening on my smallish urban balcony. 
 
+<object height="auto" width="auto" data="MyProjects.svg">
 
 
 
