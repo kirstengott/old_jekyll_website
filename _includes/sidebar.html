@@ -1,6 +1,10 @@
-<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-     styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
@@ -25,6 +29,7 @@
       {% endif %}
           {% endfor %}
 
+	  <a class="sidebar-nav-item" href="{{ site.url }}blog/index.html">Blog</a>
           <a class="sidebar-nav-item" href="https://github.com/kirstengott">GitHub</a>
           <a class="sidebar-nav-item" href="http://planaria.stowers.org/">S&aacutenchez Lab</a>
           <a class="sidebar-nav-item" href="{{ site.url }}cv-website.pdf">CV</a>

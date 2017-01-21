@@ -538,6 +538,23 @@ a.pagination-item:hover {
 }
 
 
+
+
+/* Kirstens */
+.theme-base-kirsten .sidebar,
+.theme-base-kirsten .sidebar-toggle:active,
+.theme-base-kirsten #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #cc9999;
+}
+.theme-base-kirsten .container a,
+.theme-base-kirsten .sidebar-toggle,
+.theme-base-kirsten .related-posts li a:hover {
+    color: #cc9999;
+}
+
+.mybgcolor {background-color:#f4efea; }
+
+
 /*
  * Overlay sidebar
  *

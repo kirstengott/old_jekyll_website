@@ -18,6 +18,6 @@ author:
   email:             k.gotting@gmail.com
 
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-crosspost-to-medium]
 
 paginate_path: "/blog/page:num/"
