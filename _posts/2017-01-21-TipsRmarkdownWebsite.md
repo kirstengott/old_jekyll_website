@@ -1,6 +1,8 @@
 ---
 title: "5 Tips for Making an Rmarkdown Website with Rstudio"
-crosspost_to_medium: true
+jekyll-crosspost_to_medium:
+  enabled: false
+  status: draft
 ---
 
 TL;DR:
